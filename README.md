@@ -1,4 +1,4 @@
-## Welcome to my cosmos 👋
+## Welcome to my Cosmos 🌌
 
 Here, amidst the digital currents, you'll discover a testament to the art of crafting. This is where ideas take root and evolve into tangible forms, driven by a deep-seated belief that every line of code, every system design, and every user interaction should be a deliberate act of refinement. My work isn't just about building; it's about perfecting, understanding, and bringing forth solutions that resonate with both intellect and intuition.
 
