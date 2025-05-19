@@ -7,6 +7,7 @@ Welcome to the digital atelier of a builder driven by precision, beauty, and the
 In this corner of the digital cosmos, you'll find the curated output of a mind ceaselessly fascinated by how things work, how they can work better, and how they can inspire. This profile isn't merely a collection of repositories; it's a living canvas where passion for intricate design, robust functionality, and seamless experiences converges, shaping the very fabric of my digital craft.
 
 "We are all just walking each other home."
+
 — Ram Dass
 
 <!--
