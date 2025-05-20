@@ -1,10 +1,14 @@
 # Welcome to my Cosmos. In every line, a universe unfolds. 🌌
 
+</br>
+
 Here, amidst the digital currents, you'll discover a testament to the art of crafting. This is where ideas take root and evolve into tangible forms, driven by a deep-seated belief that every line of code, every system design, and every user interaction should be a deliberate act of refinement. My work isn't just about building; it's about perfecting, understanding, and bringing forth solutions that resonate with both intellect and intuition.
 
 Welcome to the digital atelier of a builder driven by precision, beauty, and the profound dance of systems. Like a botanist cultivating the perfect bloom or an aerospace engineer charting flawless trajectories, I sculpt code with an unwavering obsession for efficiency, usability, and aesthetic elegance. From dissecting the intricate mechanics of malware in my Malware Forge to orchestrating the Silicon Symphony of hardware and software, and from refining the Vim Virtuoso configuration to breathing serene life into the web with Zen Reboot, every endeavor here is a testament to the pursuit of harmony between function and form. Explore a collection where robust engineering meets artisanal craftsmanship, always seeking the optimal path, the clearest interface, and the most compelling solution.
 
 In this corner of the digital cosmos, you'll find the curated output of a mind ceaselessly fascinated by how things work, how they can work better, and how they can inspire. This profile isn't merely a collection of repositories; it's a living canvas where passion for intricate design, robust functionality, and seamless experiences converges, shaping the very fabric of my digital craft.
+
+</br></br>
 
 ## My Tech Stack
 
@@ -18,6 +22,8 @@ Advantages of this blend:
 - Seamless Integration: These technologies complement each other beautifully, enabling the rapid creation of full-stack, real-time applications with a smooth developer experience. Firebase's real-time capabilities pair perfectly with Svelte's reactivity, all safeguarded by TypeScript's precision.
 
 This stack is my go-to for delivering high-performance, scalable, and maintainable applications with an emphasis on developer efficiency and user satisfaction.
+
+</br>
 
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -36,6 +42,8 @@ This stack is my go-to for delivering high-performance, scalable, and maintainab
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   </a>
 </p>
+
+</br></br>
 
 "We are all just walking each other home." 🕊️
 
