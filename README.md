@@ -23,6 +23,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=333" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=333" alt="C" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=333" alt="Rust" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&labelColor=333" alt="Apache Spark" />
 </p>
 
 My core development philosophy manifests through a carefully chosen trinity: Firebase for a robust, serverless backend, Svelte for a reactive, compiled UI, and TypeScript for unyielding type safety.
@@ -41,10 +42,12 @@ This stack is my go-to for delivering high-performance, scalable, and maintainab
   <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white&labelColor=333" alt="Vim" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white&labelColor=333" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white&labelColor=333" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white&labelColor=333" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white&labelColor=333" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white&labelColor=333" alt="Claude" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white&labelColor=333" alt="OpenGL" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3&logoColor=white&labelColor=333" alt="D3.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&labelColor=333" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=333" alt="Solidity" />
 </p>
 
 <br/>
@@ -53,6 +56,9 @@ This stack is my go-to for delivering high-performance, scalable, and maintainab
   <img src="https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white&labelColor=333" alt="edX" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white&labelColor=333" alt="GIMP" />
   <img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white&labelColor=333" alt="Inkscape" />
+  <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=flat&logo=googledocs&logoColor=white&labelColor=333" alt="Google Docs" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white&labelColor=333" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=flat&logo=googleslides&logoColor=white&labelColor=333" alt="Google Slides" />
 </p>
 
 </br></br>
