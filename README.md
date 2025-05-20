@@ -27,23 +27,14 @@ This stack is my go-to for delivering high-performance, scalable, and maintainab
 
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=333&height=50" alt="Firebase" />
   </a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=333&height=50" alt="Svelte" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=333&height=50" alt="TypeScript" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </a>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=333&height=40" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=333&height=40" alt="Svelte" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=333&height=40" alt="TypeScript" />
 </p>
 
 </br></br>
