@@ -27,13 +27,13 @@ This stack is my go-to for delivering high-performance, scalable, and maintainab
 
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=333&height=50" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=333&height=64" alt="Firebase" />
   </a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=333&height=50" alt="Svelte" />
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=333&height=64" alt="Svelte" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=333&height=50" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=333&height=64" alt="TypeScript" />
   </a>
 </p>
 
