@@ -12,6 +12,12 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 
 ## My Tech Stack
 
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=333&height=64" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white&labelColor=333&height=64" alt="Svelte" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&labelColor=333&height=64" alt="TypeScript" />
+</p>
+
 My core development philosophy manifests through a carefully chosen trinity: Firebase for a robust, serverless backend, Svelte for a reactive, compiled UI, and TypeScript for unyielding type safety.
 
 Advantages of this blend:
@@ -22,22 +28,6 @@ Advantages of this blend:
 - Seamless Integration: These technologies complement each other beautifully, enabling the rapid creation of full-stack, real-time applications with a smooth developer experience. Firebase's real-time capabilities pair perfectly with Svelte's reactivity, all safeguarded by TypeScript's precision.
 
 This stack is my go-to for delivering high-performance, scalable, and maintainable applications with an emphasis on developer efficiency and user satisfaction.
-
-</br>
-
-<p align="center">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=333&height=64" alt="Firebase" />
-  </a>
-  
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=333&height=64" alt="Svelte" />
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=333&height=64" alt="TypeScript" />
-  </a>
-</p>
 
 </br></br>
 
