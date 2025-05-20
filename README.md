@@ -13,9 +13,15 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 ## My Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=333&height=64" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white&labelColor=333&height=64" alt="Svelte" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&labelColor=333&height=64" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=333" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white&labelColor=333" alt="Svelte" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&labelColor=333" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white&labelColor=333" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=333" alt="Git" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3js&logoColor=white&labelColor=333" alt="D3.js" />
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl&logoColor=white&labelColor=333" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Vim-4CAF50?style=flat&logo=vim&logoColor=white&labelColor=333" alt="Vim" />
+  <img src="https://img.shields.io/badge/Qwik-5DD5FA?style=flat&logo=qwik&logoColor=white&labelColor=333" alt="Qwik" />
 </p>
 
 My core development philosophy manifests through a carefully chosen trinity: Firebase for a robust, serverless backend, Svelte for a reactive, compiled UI, and TypeScript for unyielding type safety.
