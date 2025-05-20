@@ -13,8 +13,6 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 ## My Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white&labelColor=333" alt="NixOS" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white&labelColor=333" alt="Vim" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=333" alt="Git" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=333" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=333" alt="TypeScript" />
@@ -38,6 +36,8 @@ Advantages of this blend:
 This stack is my go-to for delivering high-performance, scalable, and maintainable applications with an emphasis on developer efficiency and user satisfaction.
 
 <p>
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white&labelColor=333" alt="NixOS" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white&labelColor=333" alt="Vim" />
   <img src="https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white&labelColor=333" alt="edX" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white&labelColor=333" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white&labelColor=333" alt="Claude" />
