@@ -39,8 +39,8 @@ This stack is my go-to for delivering high-performance, scalable, and maintainab
 
 <p>
   <img src="https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white&labelColor=333" alt="edX" />
-  <img src="https://img.shields.io/badge/Google%20Gemini%20AI-8E75B2?style=flat&logo=googlegemini&logoColor=white&labelColor=333" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat&logo=claude&logoColor=white&labelColor=333" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white&labelColor=333" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white&labelColor=333" alt="Claude" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white&labelColor=333" alt="GIMP" />
   <img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white&labelColor=333" alt="Inkscape" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white&labelColor=333" alt="OpenGL" />
