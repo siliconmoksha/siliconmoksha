@@ -23,7 +23,8 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=333" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=333" alt="C" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=333" alt="Rust" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&labelColor=333" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&labelColor=333" alt="Spark" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=333" alt="Solidity" />
 </p>
 
 My core development philosophy manifests through a carefully chosen trinity: Firebase for a robust, serverless backend, Svelte for a reactive, compiled UI, and TypeScript for unyielding type safety.
@@ -47,7 +48,6 @@ This stack is my go-to for delivering high-performance, scalable, and maintainab
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white&labelColor=333" alt="OpenGL" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3&logoColor=white&labelColor=333" alt="D3.js" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&labelColor=333" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=333" alt="Solidity" />
 </p>
 
 <br/>
