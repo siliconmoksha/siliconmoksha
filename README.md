@@ -38,6 +38,10 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=333" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&labelColor=333" alt="Spark" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=333" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white&labelColor=333" alt="Unity" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot&logoColor=white&labelColor=333" alt="Godot" />
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white&labelColor=333" alt="Strapi" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white&labelColor=333" alt="Stripe" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white&labelColor=333" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white&labelColor=333" alt="Prettier" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white&labelColor=333" alt="OpenGL" />
