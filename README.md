@@ -39,7 +39,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&labelColor=333" alt="Spark" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=333" alt="Solidity" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white&labelColor=333" alt="Unity" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot&logoColor=white&labelColor=333" alt="Godot" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white&labelColor=333" alt="Godot" />
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white&labelColor=333" alt="Strapi" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white&labelColor=333" alt="Stripe" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white&labelColor=333" alt="ESLint" />
