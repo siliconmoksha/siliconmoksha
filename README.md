@@ -23,8 +23,10 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white&labelColor=333" alt="Bun" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&labelColor=333" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white&labelColor=333" alt="CSS" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind&logoColor=white&labelColor=333" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=333" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=333" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white&labelColor=333" alt="Astro" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white&labelColor=333" alt="Svelte" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white&labelColor=333" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=333" alt="React" />
