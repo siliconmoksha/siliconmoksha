@@ -23,7 +23,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white&labelColor=333" alt="Bun" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&labelColor=333" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white&labelColor=333" alt="CSS" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind&logoColor=white&labelColor=333" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&labelColor=333" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=333" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=333" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white&labelColor=333" alt="Astro" />
@@ -32,6 +32,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=333" alt="React" />
   <img src="https://img.shields.io/badge/Qwik-AC7EF4?style=flat&logo=qwik&logoColor=white&labelColor=333" alt="Qwik" />
   <img src="https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white&labelColor=333" alt="Solid" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white&labelColor=333" alt="Prisma" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=333" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=333" alt="SQLite" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=333" alt="Python" />
@@ -39,7 +40,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=333" alt="Rust" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=333" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Common%20Lisp-000000?style=flat&logo=commonlisp&logoColor=white&labelColor=333" alt="Common Lisp" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&labelColor=333" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&labelColor=333" alt="Apacahe Spark" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=333" alt="Solidity" />
   <img src="https://img.shields.io/badge/Unity%20Engine-FFFFFF?style=flat&logo=unity&logoColor=white&labelColor=333" alt="Unity Engine" />
   <img src="https://img.shields.io/badge/Godot%20Enigne-478CBF?style=flat&logo=godotengine&logoColor=white&labelColor=333" alt="Godot Engine" />
