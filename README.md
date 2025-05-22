@@ -33,6 +33,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Qwik-AC7EF4?style=flat&logo=qwik&logoColor=white&labelColor=333" alt="Qwik" />
   <img src="https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white&labelColor=333" alt="Solid" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&labelColor=333" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white&labelColor=333" alt="Tauri" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white&labelColor=333" alt="Prisma" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=333" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=333" alt="SQLite" />
@@ -64,7 +65,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white&labelColor=333" alt="Ansible" />
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&labelColor=333" alt="Arduino" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=edx&logoColor=white&labelColor=333" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/RISC-V-283272?style=flat&logo=claude&logoColor=white&labelColor=333" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/RISCV-283272?style=flat&logo=claude&logoColor=white&labelColor=333" alt="RISC-V" />
 </p>
 
 </br>
