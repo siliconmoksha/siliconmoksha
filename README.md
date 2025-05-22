@@ -36,27 +36,35 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=333" alt="C" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=333" alt="Rust" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=333" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Common%20Lisp-000000?style=flat&logo=commonlisp&logoColor=white&labelColor=333" alt="Common Lisp" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&labelColor=333" alt="Spark" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=333" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white&labelColor=333" alt="Unity" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white&labelColor=333" alt="Godot" />
+  <img src="https://img.shields.io/badge/Unity%20Engine-FFFFFF?style=flat&logo=unity&logoColor=white&labelColor=333" alt="Unity Engine" />
+  <img src="https://img.shields.io/badge/Godot%20Enigne-478CBF?style=flat&logo=godotengine&logoColor=white&labelColor=333" alt="Godot Engine" />
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white&labelColor=333" alt="Strapi" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white&labelColor=333" alt="Stripe" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white&labelColor=333" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white&labelColor=333" alt="Prettier" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white&labelColor=333" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3&logoColor=white&labelColor=333" alt="D3.js" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&labelColor=333" alt="Three.js" />
 </p>
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white&labelColor=333" alt="edX" />
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=333" alt="Tensorflow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=333" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white&labelColor=333" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white&labelColor=333" alt="Claude" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white&labelColor=333" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white&labelColor=333" alt="Prettier" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white&labelColor=333" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3&logoColor=white&labelColor=333" alt="D3.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&labelColor=333" alt="Three.js" />
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&labelColor=333" alt="Arduino" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=edx&logoColor=white&labelColor=333" alt="Raspberry Pi" />
+</p>
+
+</br>
+
+<p>
+  <img src="https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white&labelColor=333" alt="edX" />
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white&labelColor=333" alt="Obsidian" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white&labelColor=333" alt="Blender" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white&labelColor=333" alt="GIMP" />
@@ -66,6 +74,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=flat&logo=googledocs&logoColor=white&labelColor=333" alt="Google Docs" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white&labelColor=333" alt="Google Sheets" />
   <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=flat&logo=googleslides&logoColor=white&labelColor=333" alt="Google Slides" />
+  <img src="https://img.shields.io/badge/Google%20Forms-363636?style=flat&logo=googleforms&logoColor=white&labelColor=333" alt="Google Forms" />
 </p>
 
 <br/>
