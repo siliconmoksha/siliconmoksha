@@ -30,7 +30,6 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=333" alt="React" />
   <img src="https://img.shields.io/badge/Qwik-AC7EF4?style=flat&logo=qwik&logoColor=white&labelColor=333" alt="Qwik" />
   <img src="https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white&labelColor=333" alt="Solid" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white&labelColor=333" alt="Blender" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=333" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=333" alt="SQLite" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=333" alt="Python" />
