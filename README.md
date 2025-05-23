@@ -1,6 +1,6 @@
 # Welcome to my Cosmos. In every line, a universe unfolds. 🌌
 
-</br>
+<br>
 
 Here, amidst the digital currents, you'll discover a testament to the art of crafting. This is where ideas take root and evolve into tangible forms, driven by a deep-seated belief that every line of code, every system design, and every user interaction should be a deliberate act of refinement. My work isn't just about building; it's about perfecting, understanding, and bringing forth solutions that resonate with both intellect and intuition.
 
@@ -8,11 +8,11 @@ Welcome to the digital atelier of a builder driven by precision, beauty, and the
 
 In this corner of the digital cosmos, you'll find the curated output of a mind ceaselessly fascinated by how things work, how they can work better, and how they can inspire. This profile isn't merely a collection of repositories; it's a living canvas where passion for intricate design, robust functionality, and seamless experiences converges, shaping the very fabric of my digital craft.
 
-</br></br>
+<br><br>
 
 ## The Technologies I Use:
 
-### Languages, Routines & Frameworks
+### Languages, Routines & Frameworks:
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&labelColor=333" alt="HTML" />
@@ -36,9 +36,9 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=333" alt="Solidity" />
 </p>
 
-<br/>
+<br>
 
-### Databases, Routines & Libraries
+### Databases, Routines & Libraries:
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=333" alt="Firebase" />
@@ -60,9 +60,9 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&labelColor=333" alt="Three.js" />
 </p>
 
-</br>
+<br>
 
-### Operating Systems, Artificial Intelligence, IoT & Engines
+### Operating Systems, Artificial Intelligence, IoT & Engines:
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white&labelColor=333" alt="Linux" />
@@ -81,9 +81,9 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/RISC--V-283272?style=flat&logo=claude&logoColor=white&labelColor=333" alt="RISC-V" />
 </p>
 
-<br/>
+<br>
 
-### Creative Tools & Continuous Education
+### Creative Tools & Continuous Education:
 
 <p>
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white&labelColor=333" alt="Obsidian" />
@@ -99,6 +99,8 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white&labelColor=333" alt="edX" />
 </p>
 
+<br><br>
+
 My core development philosophy manifests through a carefully chosen trinity: Firebase for a robust, serverless backend, Svelte for a reactive, compiled UI, and TypeScript for unyielding type safety.
 
 Advantages of this blend:
@@ -110,7 +112,7 @@ Advantages of this blend:
 
 This stack is my go-to for delivering high-performance, scalable, and maintainable applications with an emphasis on developer efficiency and user satisfaction.
 
-</br></br>
+<br><br>
 
 "We are all just walking each other home." 🕊️
 
