@@ -15,9 +15,6 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 ### Languages, Routines & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white&labelColor=333" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Deno-70FFAF?style=flat&logo=deno&logoColor=white&labelColor=333" alt="Deno" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white&labelColor=333" alt="Bun" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&labelColor=333" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white&labelColor=333" alt="CSS" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&labelColor=333" alt="Tailwind CSS" />
@@ -30,8 +27,6 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Qwik-AC7EF4?style=flat&logo=qwik&logoColor=white&labelColor=333" alt="Qwik" />
   <img src="https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white&labelColor=333" alt="Solid" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white&labelColor=333" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=333" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=333" alt="SQLite" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=333" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=333" alt="C" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=333" alt="Rust" />
@@ -43,9 +38,14 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 
 <br/>
 
-### Databases & Libraries
+### Databases, Routines & Libraries
 
 <p>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=333" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=333" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white&labelColor=333" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Deno-70FFAF?style=flat&logo=deno&logoColor=white&labelColor=333" alt="Deno" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white&labelColor=333" alt="Bun" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&labelColor=333" alt="Vite" />
   <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white&labelColor=333" alt="Tauri" />
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white&labelColor=333" alt="Strapi" />
