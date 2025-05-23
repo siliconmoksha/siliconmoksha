@@ -19,6 +19,14 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&labelColor=333" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white&labelColor=333" alt="Astro" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white&labelColor=333" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=333" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=333" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=333" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white&labelColor=333" alt="Jest" />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white&labelColor=333" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white&labelColor=333" alt="Prisma" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white&labelColor=333" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white&labelColor=333" alt="Prettier" />
 </p>
 
 <br>
