@@ -10,7 +10,9 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 
 </br></br>
 
-## My Tech Stack
+## The Technologies I Use:
+
+### Languages, Frameworks & Engines
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white&labelColor=333" alt="Linux" />
@@ -54,11 +56,11 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 
 <br/>
 
+### Libraries
+
 <p>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=333" alt="Tensorflow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=333" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white&labelColor=333" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white&labelColor=333" alt="Claude" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white&labelColor=333" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white&labelColor=333" alt="Prettier" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white&labelColor=333" alt="OpenGL" />
@@ -72,8 +74,18 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 
 </br>
 
+### Artificial Intelligence & Electronics
+
 <p>
-  <img src="https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white&labelColor=333" alt="edX" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white&labelColor=333" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white&labelColor=333" alt="Claude" />
+</p>
+
+<br/>
+
+### Creative Tools & Continuous Education
+
+<p>
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white&labelColor=333" alt="Obsidian" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white&labelColor=333" alt="Blender" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white&labelColor=333" alt="GIMP" />
@@ -84,9 +96,8 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white&labelColor=333" alt="Google Sheets" />
   <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=flat&logo=googleslides&logoColor=white&labelColor=333" alt="Google Slides" />
   <img src="https://img.shields.io/badge/Google%20Forms-363636?style=flat&logo=googleforms&logoColor=white&labelColor=333" alt="Google Forms" />
+  <img src="https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white&labelColor=333" alt="edX" />
 </p>
-
-<br/>
 
 My core development philosophy manifests through a carefully chosen trinity: Firebase for a robust, serverless backend, Svelte for a reactive, compiled UI, and TypeScript for unyielding type safety.
 
