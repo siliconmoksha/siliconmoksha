@@ -12,6 +12,10 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 
 ## The Technologies I Use
 
+### Creative Approach:
+
+<p>Lorem Ipsum Dolor.</p>
+
 ### My Beloved Tech Stack:
 
 <p>
@@ -31,7 +35,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 
 <br>
 
-### Languages, Routines & Frameworks:
+### Languages & Frameworks:
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&labelColor=333" alt="HTML" />
