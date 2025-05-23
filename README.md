@@ -12,14 +12,9 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 
 ## The Technologies I Use:
 
-### Languages, Frameworks & Engines
+### Languages, Routines & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white&labelColor=333" alt="Linux" />
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white&labelColor=333" alt="NixOS" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white&labelColor=333" alt="Vim" />
-  <img src="https://img.shields.io/badge/tmux-1BB41F?style=flat&logo=tmux&logoColor=white&labelColor=333" alt="tmux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=333" alt="Git" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white&labelColor=333" alt="Node.js" />
   <img src="https://img.shields.io/badge/Deno-70FFAF?style=flat&logo=deno&logoColor=white&labelColor=333" alt="Deno" />
   <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white&labelColor=333" alt="Bun" />
@@ -34,11 +29,7 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=333" alt="React" />
   <img src="https://img.shields.io/badge/Qwik-AC7EF4?style=flat&logo=qwik&logoColor=white&labelColor=333" alt="Qwik" />
   <img src="https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=solid&logoColor=white&labelColor=333" alt="Solid" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&labelColor=333" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white&labelColor=333" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white&labelColor=333" alt="Jest" />
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white&labelColor=333" alt="Cypress" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white&labelColor=333" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white&labelColor=333" alt="Ansible" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=333" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=333" alt="SQLite" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=333" alt="Python" />
@@ -48,37 +39,46 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
   <img src="https://img.shields.io/badge/Common%20Lisp-000000?style=flat&logo=commonlisp&logoColor=white&labelColor=333" alt="Common Lisp" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&labelColor=333" alt="Apacahe Spark" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=333" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Unity%20Engine-FFFFFF?style=flat&logo=unity&logoColor=white&labelColor=333" alt="Unity Engine" />
-  <img src="https://img.shields.io/badge/Godot%20Enigne-478CBF?style=flat&logo=godotengine&logoColor=white&labelColor=333" alt="Godot Engine" />
-  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white&labelColor=333" alt="Strapi" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white&labelColor=333" alt="Stripe" />
 </p>
 
 <br/>
 
-### Libraries
+### Databases & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=333" alt="Tensorflow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=333" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&labelColor=333" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white&labelColor=333" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white&labelColor=333" alt="Strapi" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white&labelColor=333" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white&labelColor=333" alt="Jest" />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white&labelColor=333" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white&labelColor=333" alt="Prisma" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white&labelColor=333" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white&labelColor=333" alt="Prettier" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white&labelColor=333" alt="OpenGL" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3&logoColor=white&labelColor=333" alt="D3.js" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&labelColor=333" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white&labelColor=333" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&labelColor=333" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=edx&logoColor=white&labelColor=333" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/RISC--V-283272?style=flat&logo=claude&logoColor=white&labelColor=333" alt="RISC-V" />
 </p>
 
 </br>
 
-### Artificial Intelligence & Electronics
+### Operating Systems, Artificial Intelligence, IoT & Engines
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white&labelColor=333" alt="Linux" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white&labelColor=333" alt="NixOS" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white&labelColor=333" alt="Vim" />
+  <img src="https://img.shields.io/badge/tmux-1BB41F?style=flat&logo=tmux&logoColor=white&labelColor=333" alt="tmux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=333" alt="Git" />
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=333" alt="Tensorflow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=333" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white&labelColor=333" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white&labelColor=333" alt="Claude" />
+  <img src="https://img.shields.io/badge/Unity%20Engine-FFFFFF?style=flat&logo=unity&logoColor=white&labelColor=333" alt="Unity Engine" />
+  <img src="https://img.shields.io/badge/Godot%20Enigne-478CBF?style=flat&logo=godotengine&logoColor=white&labelColor=333" alt="Godot Engine" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&labelColor=333" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=edx&logoColor=white&labelColor=333" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=flat&logo=claude&logoColor=white&labelColor=333" alt="RISC-V" />
 </p>
 
 <br/>
