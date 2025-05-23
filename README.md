@@ -16,6 +16,8 @@ In this corner of the digital cosmos, you'll find the curated output of a mind c
 
 <p>Lorem Ipsum Dolor.</p>
 
+<br>
+
 ### My Beloved Tech Stack:
 
 <p>
